@@ -9,9 +9,5 @@ echo $(( 10 - 5 ))
 echo $(( 10 / 5 ))
 echo $(( 10 * 5 ))
 echo $(( 10 % 5 ))
-echo &(( 10 + 5 ))
-echo ( expr "$num1" + "$num2" )
-echo ( expr "$num1" - "$num2" )
-echo ( expr "$num1"  \* "$num2" ) #The escape syntax is \
- 
+echo &(( 10 + 5 )) 
  
