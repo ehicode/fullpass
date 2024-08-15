@@ -11,3 +11,4 @@ echo $(( 10 * 5 ))
 echo $(( 10 % 5 ))
 echo &(( 4 + 5 )) 
  
+echo 'This is the end of the script'
